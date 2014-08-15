@@ -28,8 +28,8 @@ SET time_zone = "+00:00";
 
 CREATE TABLE IF NOT EXISTS `region` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
-  `name` varchar(64) NOT NULL,
   `country_id` tinyint(3) unsigned DEFAULT NULL,
+  `name` varchar(64) NOT NULL,
   `geo_lat` double(12,11) DEFAULT NULL,
   `geo_lng` double(12,11) DEFAULT NULL,
   PRIMARY KEY (`id`)
