@@ -1,7 +1,9 @@
 # worlddb
 
 This is a copy from 
+
 https://code.google.com/p/worlddb/
+
 i have separated to 3 tables (country, region and city) and i have make some small bug fixes.
 
 ```sql
@@ -34,3 +36,4 @@ CREATE TABLE `city` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
 ```
 
+if you find it useful and you improve it or add new data then please don't hesitate to shear it...
