@@ -36,4 +36,4 @@ CREATE TABLE `city` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
 ```
 
-if you find it useful and you improve it or add new data then please don't hesitate to shear it...
+if you find it useful and you improve it or add new data then please don't hesitate to shear it :-)
