@@ -4,7 +4,8 @@ This is a copy from
 
 https://code.google.com/p/worlddb/
 
-i have separated to 3 tables (country, region and city) and i have make some small bug fixes.
+I have separated to 3 tables (country, region and city) and i have make some small bug fixes.
+It contains 246 countries, 4156 regions and 101.907 cities.
 
 ```sql
 CREATE TABLE `country` (
